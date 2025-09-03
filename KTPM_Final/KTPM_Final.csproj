@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9E80AA5D-13EA-4B73-822A-E3EA4656C146}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>KTPM_Final</RootNamespace>
+    <AssemblyName>KTPM_Final</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Cryptography, Version=2.0.0.0, Culture=neutral, PublicKeyToken=072edcf4a5328938, processorArchitecture=MSIL">
+      <HintPath>..\packages\BouncyCastle.Cryptography.2.4.0\lib\net461\BouncyCastle.Cryptography.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.4, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13.4\lib\net461\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.IdentityModel" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controllers\ChiTietHoaDonController.cs" />
+    <Compile Include="Controllers\ChiTietNhapSachController.cs" />
+    <Compile Include="Controllers\HoaDonController.cs" />
+    <Compile Include="Controllers\NhanVienController.cs" />
+    <Compile Include="Controllers\NhapSachController.cs" />
+    <Compile Include="Controllers\SachController.cs" />
+    <Compile Include="Controllers\TaiKhoanController.cs" />
+    <Compile Include="Model\ChiTietHoaDonModel.cs" />
+    <Compile Include="Controllers\DBHelper.cs" />
+    <Compile Include="Model\ChiTietNhapSachModel.cs" />
+    <Compile Include="Model\HoaDonModel.cs" />
+    <Compile Include="Model\NhanVienModel.cs" />
+    <Compile Include="Model\NhapSachModel.cs" />
+    <Compile Include="Model\SachModel.cs" />
+    <Compile Include="Model\TaiKhoanModel.cs" />
+    <Compile Include="Controllers\UIHelper.cs" />
+    <Compile Include="Observer\IObserver.cs" />
+    <Compile Include="Observer\ISubject.cs" />
+    <Compile Include="Observer\BaseSubject.cs" />
+    <Compile Include="Observer\ObserverManager.cs" />
+    <Compile Include="Observer\Events\EventData.cs" />
+    <Compile Include="Observer\Observers\NotificationObserver.cs" />
+    <Compile Include="Observer\Observers\LogObserver.cs" />
+    <Compile Include="Observer\Observers\StatisticsObserver.cs" />
+    <Compile Include="Observer\Observers\UIUpdateObserver.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="View\ChiTietPhieuNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ChiTietPhieuNhap.Designer.cs">
+      <DependentUpon>ChiTietPhieuNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmAdmin.Designer.cs">
+      <DependentUpon>frmAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmBHXemTTSach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmBHXemTTSach.Designer.cs">
+      <DependentUpon>frmBHXemTTSach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmChiTietHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmChiTietHoaDon.Designer.cs">
+      <DependentUpon>frmChiTietHoaDon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmHoaDon.Designer.cs">
+      <DependentUpon>frmHoaDon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmKhoXemTTSach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmKhoXemTTSach.Designer.cs">
+      <DependentUpon>frmKhoXemTTSach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmNhanVien.Designer.cs">
+      <DependentUpon>frmNhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmNhapSach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmNhapSach.Designer.cs">
+      <DependentUpon>frmNhapSach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmQuickAddAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmQuickAddAccount.Designer.cs">
+      <DependentUpon>frmQuickAddAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmSach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmSach.Designer.cs">
+      <DependentUpon>frmSach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmTaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmTaiKhoan.Designer.cs">
+      <DependentUpon>frmTaiKhoan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmXemHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmXemHoaDon.Designer.cs">
+      <DependentUpon>frmXemHoaDon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmXemPhieuNHap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmXemPhieuNHap.Designer.cs">
+      <DependentUpon>frmXemPhieuNHap.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="View\ChiTietPhieuNhap.resx">
+      <DependentUpon>ChiTietPhieuNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmAdmin.resx">
+      <DependentUpon>frmAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmBHXemTTSach.resx">
+      <DependentUpon>frmBHXemTTSach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmChiTietHoaDon.resx">
+      <DependentUpon>frmChiTietHoaDon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmHoaDon.resx">
+      <DependentUpon>frmHoaDon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmKhoXemTTSach.resx">
+      <DependentUpon>frmKhoXemTTSach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmNhanVien.resx">
+      <DependentUpon>frmNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmNhapSach.resx">
+      <DependentUpon>frmNhapSach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmQuickAddAccount.resx">
+      <DependentUpon>frmQuickAddAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmSach.resx">
+      <DependentUpon>frmSach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmTaiKhoan.resx">
+      <DependentUpon>frmTaiKhoan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmXemHoaDon.resx">
+      <DependentUpon>frmXemHoaDon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmXemPhieuNHap.resx">
+      <DependentUpon>frmXemPhieuNHap.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

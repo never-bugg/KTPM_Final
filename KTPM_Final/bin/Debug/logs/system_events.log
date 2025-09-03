@@ -1,0 +1,97 @@
+[2025-08-31 12:46:53] [HoaDonDaTao] MaHoaDon: 1035, TongTien: 225000, NhanVien: Tiền, SoSP: 0
+[2025-08-31 12:46:58] [SachDaBan] MaSach: 248, TenSach: Người Nam Châm, SoLuongBan: 5, ConLai: 5, GiaBan: 45000, MaHoaDon: 1035
+[2025-08-31 12:46:58] [SachSapHetHang] MaSach: 248, TenSach: Người Nam Châm, SoLuong: 5
+[2025-08-31 12:47:00] [SachHetHang] MaSach: 248, TenSach: Người Nam Châm, SoLuong: 0
+[2025-08-31 13:44:45] [HoaDonDaTao] MaHoaDon: 1036, TongTien: 66000, NhanVien: Tiền, SoSP: 0
+[2025-08-31 13:44:47] [SachDaBan] MaSach: 253, TenSach: Dế Mèn Phiêu Lưu Ký, SoLuongBan: 2, ConLai: 99, GiaBan: 33000, MaHoaDon: 1036
+[2025-08-31 13:51:05] [HoaDonDaTao] MaHoaDon: 1037, TongTien: 3087000, NhanVien: Tiền, SoSP: 0
+[2025-08-31 13:51:36] [SachDaBan] MaSach: 250, TenSach: Chiến Thắng Con Quỷ Trong Bạn, SoLuongBan: 98, ConLai: 99, GiaBan: 31500, MaHoaDon: 1037
+[2025-08-31 13:51:37] [SachSapHetHang] MaSach: 250, TenSach: Chiến Thắng Con Quỷ Trong Bạn, SoLuong: 1
+[2025-08-31 14:03:34] [HoaDonDaTao] MaHoaDon: 1039, TongTien: 31500, NhanVien: Tiền, SoSP: 0
+[2025-08-31 14:03:36] [SachDaBan] MaSach: 250, TenSach: Chiến Thắng Con Quỷ Trong Bạn, SoLuongBan: 1, ConLai: 1, GiaBan: 31500, MaHoaDon: 1039
+[2025-08-31 14:03:36] [SachSapHetHang] MaSach: 250, TenSach: Chiến Thắng Con Quỷ Trong Bạn, SoLuong: 1
+[2025-08-31 14:03:38] [SachHetHang] MaSach: 250, TenSach: Chiến Thắng Con Quỷ Trong Bạn, SoLuong: 0
+[2025-08-31 15:18:54] [HoaDonDaTao] MaHoaDon: 1040, TongTien: 45000, NhanVien: Tiền, SoSP: 0
+[2025-08-31 15:18:56] [SachDaBan] MaSach: 247, TenSach: Tuổi Trẻ Đáng Giá Bao Nhiêu, SoLuongBan: 1, ConLai: 249, GiaBan: 45000, MaHoaDon: 1040
+[2025-08-31 15:19:59] [HoaDonDaTao] MaHoaDon: 1041, TongTien: 138000, NhanVien: Tiền, SoSP: 0
+[2025-08-31 15:20:00] [SachDaBan] MaSach: 249, TenSach: Đắc Nhân Tâm, SoLuongBan: 4, ConLai: 199, GiaBan: 34500, MaHoaDon: 1041
+[2025-08-31 15:20:41] [SachDaNhap] MaSach: 250, TenSach: Chiến Thắng Con Quỷ Trong Bạn, SoLuongNhap: 10, TongSau: 10, GiaNhap: 21000, MaPhieuNhap: 1033
+[2025-08-31 15:20:41] [SachCoHangTroyLai] MaSach: 250, TenSach: Chiến Thắng Con Quỷ Trong Bạn, SoLuong: 10
+[2025-08-31 15:20:41] [SachCoHangTroyLai] MaSach: 250, TenSach: Chiến Thắng Con Quỷ Trong Bạn, SoLuong: 10
+[2025-08-31 15:27:18] [HoaDonDaTao] MaHoaDon: 1042, TongTien: 315000, NhanVien: Tiền, SoSP: 0
+[2025-08-31 15:27:19] [SachDaBan] MaSach: 250, TenSach: Chiến Thắng Con Quỷ Trong Bạn, SoLuongBan: 10, ConLai: 10, GiaBan: 31500, MaHoaDon: 1042
+[2025-08-31 15:28:21] [SachHetHang] MaSach: 250, TenSach: Chiến Thắng Con Quỷ Trong Bạn, SoLuong: 0
+[2025-08-31 15:54:30] [HoaDonDaTao] MaHoaDon: 1047, TongTien: 3024000, NhanVien: Tiền, SoSP: 0
+[2025-08-31 15:54:31] [SachDaBan] MaSach: 255, TenSach: Số Đỏ, SoLuongBan: 96, ConLai: 96, GiaBan: 31500, MaHoaDon: 1047
+[2025-08-31 16:14:34] [HoaDonDaTao] MaHoaDon: 1048, TongTien: 3456000, NhanVien: Tiền, SoSP: 0
+[2025-08-31 16:14:36] [SachDaBan] MaSach: 251, TenSach: Muôn Kiếp Nhân Sinh, SoLuongBan: 96, ConLai: 98, GiaBan: 36000, MaHoaDon: 1048
+[2025-08-31 16:14:36] [SachSapHetHang] MaSach: 251, TenSach: Muôn Kiếp Nhân Sinh, SoLuong: 2
+[2025-08-31 16:17:38] [SachDaNhap] MaSach: 251, TenSach: Muôn Kiếp Nhân Sinh, SoLuongNhap: 10, TongSau: 12, GiaNhap: 24000, MaPhieuNhap: 1034
+[2025-08-31 16:18:44] [SachDaNhap] MaSach: 250, TenSach: Chiến Thắng Con Quỷ Trong Bạn, SoLuongNhap: 10, TongSau: 10, GiaNhap: 21000, MaPhieuNhap: 1035
+[2025-08-31 16:18:44] [SachCoHangTroyLai] MaSach: 250, TenSach: Chiến Thắng Con Quỷ Trong Bạn, SoLuong: 10
+[2025-08-31 16:18:44] [SachCoHangTroyLai] MaSach: 250, TenSach: Chiến Thắng Con Quỷ Trong Bạn, SoLuong: 10
+[2025-08-31 16:19:32] [SachDaNhap] MaSach: 248, TenSach: Người Nam Châm, SoLuongNhap: 1, TongSau: 1, GiaNhap: 30000, MaPhieuNhap: 1036
+[2025-08-31 16:19:32] [SachCoHangTroyLai] MaSach: 248, TenSach: Người Nam Châm, SoLuong: 1
+[2025-08-31 16:19:32] [SachCoHangTroyLai] MaSach: 248, TenSach: Người Nam Châm, SoLuong: 1
+[2025-08-31 16:26:25] [SachDaNhap] MaSach: 248, TenSach: Người Nam Châm, SoLuongNhap: 10, TongSau: 11, GiaNhap: 30000, MaPhieuNhap: 1037
+[2025-08-31 16:26:48] [HoaDonDaTao] MaHoaDon: 1049, TongTien: 45000, NhanVien: Tiền, SoSP: 0
+[2025-08-31 16:26:49] [SachDaBan] MaSach: 248, TenSach: Người Nam Châm, SoLuongBan: 1, ConLai: 11, GiaBan: 45000, MaHoaDon: 1049
+[2025-08-31 16:27:36] [HoaDonDaTao] MaHoaDon: 1050, TongTien: 3397500, NhanVien: Tiền, SoSP: 0
+[2025-08-31 16:27:38] [SachDaBan] MaSach: 248, TenSach: Người Nam Châm, SoLuongBan: 9, ConLai: 10, GiaBan: 45000, MaHoaDon: 1050
+[2025-08-31 16:27:38] [SachSapHetHang] MaSach: 248, TenSach: Người Nam Châm, SoLuong: 1
+[2025-08-31 16:27:40] [SachDaBan] MaSach: 255, TenSach: Số Đỏ, SoLuongBan: 95, ConLai: 96, GiaBan: 31500, MaHoaDon: 1050
+[2025-08-31 16:27:40] [SachSapHetHang] MaSach: 255, TenSach: Số Đỏ, SoLuong: 1
+[2025-08-31 16:35:33] [HoaDonDaTao] MaHoaDon: 1051, TongTien: 45000, NhanVien: Tiền, SoSP: 0
+[2025-08-31 16:35:34] [SachDaBan] MaSach: 248, TenSach: Người Nam Châm, SoLuongBan: 1, ConLai: 0, GiaBan: 45000, MaHoaDon: 1051
+[2025-08-31 16:35:34] [SachSapHetHang] MaSach: 248, TenSach: Người Nam Châm, SoLuong: 1
+[2025-08-31 16:35:35] [SachHetHang] MaSach: 248, TenSach: Người Nam Châm, SoLuong: 0
+[2025-08-31 16:40:12] [HoaDonDaTao] MaHoaDon: 1052, TongTien: 360000, NhanVien: Tiền, SoSP: 0
+[2025-08-31 16:40:12] [SachDaBan] MaSach: 251, TenSach: Muôn Kiếp Nhân Sinh, SoLuongBan: 10, ConLai: 2, GiaBan: 36000, MaHoaDon: 1052
+[2025-08-31 16:40:12] [SachSapHetHang] MaSach: 251, TenSach: Muôn Kiếp Nhân Sinh, SoLuong: 2
+[2025-08-31 16:40:44] [HoaDonDaTao] MaHoaDon: 1053, TongTien: 72000, NhanVien: Tiền, SoSP: 0
+[2025-08-31 16:40:44] [SachDaBan] MaSach: 251, TenSach: Muôn Kiếp Nhân Sinh, SoLuongBan: 2, ConLai: 0, GiaBan: 36000, MaHoaDon: 1053
+[2025-08-31 16:40:44] [SachSapHetHang] MaSach: 251, TenSach: Muôn Kiếp Nhân Sinh, SoLuong: 2
+[2025-08-31 16:40:45] [SachHetHang] MaSach: 251, TenSach: Muôn Kiếp Nhân Sinh, SoLuong: 0
+[2025-08-31 16:41:31] [HoaDonDaTao] MaHoaDon: 1054, TongTien: 4116000, NhanVien: Tiền, SoSP: 0
+[2025-08-31 16:41:32] [SachDaBan] MaSach: 260, TenSach: Giết Con Chim Nhại, SoLuongBan: 98, ConLai: 0, GiaBan: 42000, MaHoaDon: 1054
+[2025-08-31 16:41:32] [SachHetHang] MaSach: 260, TenSach: Giết Con Chim Nhại, SoLuong: 0
+[2025-08-31 19:26:13] [HoaDonDaTao] MaHoaDon: 1056, TongTien: 315000, NhanVien: Tiền, SoSP: 0
+[2025-08-31 19:26:14] [SachDaBan] MaSach: 250, TenSach: Chiến Thắng Con Quỷ Trong Bạn, SoLuongBan: 10, ConLai: 0, GiaBan: 31500, MaHoaDon: 1056
+[2025-08-31 19:26:14] [SachHetHang] MaSach: 250, TenSach: Chiến Thắng Con Quỷ Trong Bạn, SoLuong: 0
+[2025-08-31 19:26:49] [HoaDonDaTao] MaHoaDon: 1057, TongTien: 3312000, NhanVien: Tiền, SoSP: 0
+[2025-08-31 19:26:50] [SachDaBan] MaSach: 256, TenSach: Thép Đã Tôi Thế Đấy, SoLuongBan: 96, ConLai: 1, GiaBan: 34500, MaHoaDon: 1057
+[2025-08-31 19:26:50] [SachSapHetHang] MaSach: 256, TenSach: Thép Đã Tôi Thế Đấy, SoLuong: 1
+[2025-08-31 19:31:20] [SachDaNhap] MaSach: 248, TenSach: Người Nam Châm, SoLuongNhap: 10, TongSau: 10, GiaNhap: 30000, MaPhieuNhap: 1038
+[2025-08-31 19:31:20] [SachCoHangTroyLai] MaSach: 248, TenSach: Người Nam Châm, SoLuong: 10
+[2025-08-31 19:31:20] [SachCoHangTroyLai] MaSach: 248, TenSach: Người Nam Châm, SoLuong: 10
+[2025-08-31 19:31:20] [SachDaNhap] MaSach: 250, TenSach: Chiến Thắng Con Quỷ Trong Bạn, SoLuongNhap: 10, TongSau: 10, GiaNhap: 21000, MaPhieuNhap: 1038
+[2025-08-31 19:31:20] [SachCoHangTroyLai] MaSach: 250, TenSach: Chiến Thắng Con Quỷ Trong Bạn, SoLuong: 10
+[2025-08-31 19:31:20] [SachCoHangTroyLai] MaSach: 250, TenSach: Chiến Thắng Con Quỷ Trong Bạn, SoLuong: 10
+[2025-08-31 19:57:29] [HoaDonDaTao] MaHoaDon: 1058, TongTien: 45000, NhanVien: Tiền, SoSP: 0
+[2025-08-31 19:57:30] [SachDaBan] MaSach: 247, TenSach: Tuổi Trẻ Đáng Giá Bao Nhiêu, SoLuongBan: 1, ConLai: 246, GiaBan: 45000, MaHoaDon: 1058
+[2025-08-31 19:59:32] [HoaDonDaTao] MaHoaDon: 1059, TongTien: 450000, NhanVien: Tiền, SoSP: 0
+[2025-08-31 19:59:33] [SachDaBan] MaSach: 248, TenSach: Người Nam Châm, SoLuongBan: 10, ConLai: 0, GiaBan: 45000, MaHoaDon: 1059
+[2025-08-31 19:59:33] [SachHetHang] MaSach: 248, TenSach: Người Nam Châm, SoLuong: 0
+[2025-08-31 20:08:45] [HoaDonDaTao] MaHoaDon: 1060, TongTien: 31500, NhanVien: Tiền, SoSP: 0
+[2025-08-31 20:08:46] [SachDaBan] MaSach: 250, TenSach: Chiến Thắng Con Quỷ Trong Bạn, SoLuongBan: 1, ConLai: 9, GiaBan: 31500, MaHoaDon: 1060
+[2025-08-31 20:08:46] [SachSapHetHang] MaSach: 250, TenSach: Chiến Thắng Con Quỷ Trong Bạn, SoLuong: 9
+[2025-08-31 20:11:09] [HoaDonDaTao] MaHoaDon: 1061, TongTien: 34500, NhanVien: Tiền, SoSP: 0
+[2025-08-31 20:11:10] [SachDaBan] MaSach: 249, TenSach: Đắc Nhân Tâm, SoLuongBan: 1, ConLai: 192, GiaBan: 34500, MaHoaDon: 1061
+[2025-08-31 20:15:37] [HoaDonDaTao] MaHoaDon: 1062, TongTien: 45000, NhanVien: Tiền, SoSP: 0
+[2025-08-31 20:15:38] [SachDaBan] MaSach: 247, TenSach: Tuổi Trẻ Đáng Giá Bao Nhiêu, SoLuongBan: 1, ConLai: 245, GiaBan: 45000, MaHoaDon: 1062
+[2025-08-31 20:20:24] [HoaDonDaTao] MaHoaDon: 1063, TongTien: 34500, NhanVien: Tiền, SoSP: 0
+[2025-08-31 20:20:25] [SachDaBan] MaSach: 249, TenSach: Đắc Nhân Tâm, SoLuongBan: 1, ConLai: 191, GiaBan: 34500, MaHoaDon: 1063
+[2025-08-31 20:21:05] [HoaDonDaTao] MaHoaDon: 1064, TongTien: 34500, NhanVien: Tiền, SoSP: 0
+[2025-08-31 20:21:06] [SachDaBan] MaSach: 249, TenSach: Đắc Nhân Tâm, SoLuongBan: 1, ConLai: 190, GiaBan: 34500, MaHoaDon: 1064
+[2025-09-03 14:31:20] [HoaDonDaTao] MaHoaDon: 2031, TongTien: 31500, NhanVien: Tiền, SoSP: 0
+[2025-09-03 14:31:21] [SachDaBan] MaSach: 252, TenSach: Chuyện Con Mèo Dạy Hải Âu Bay, SoLuongBan: 1, ConLai: 1092, GiaBan: 31500, MaHoaDon: 2031
+[2025-09-03 14:34:28] [HoaDonDaTao] MaHoaDon: 2032, TongTien: 33000, NhanVien: Tiền, SoSP: 0
+[2025-09-03 14:34:29] [SachDaBan] MaSach: 253, TenSach: Dế Mèn Phiêu Lưu Ký, SoLuongBan: 1, ConLai: 96, GiaBan: 33000, MaHoaDon: 2032
+[2025-09-03 14:45:55] [HoaDonDaTao] MaHoaDon: 2033, TongTien: 31500, NhanVien: Tiền, SoSP: 0
+[2025-09-03 14:45:56] [SachDaBan] MaSach: 250, TenSach: Chiến Thắng Con Quỷ Trong Bạn, SoLuongBan: 1, ConLai: 8, GiaBan: 31500, MaHoaDon: 2033
+[2025-09-03 14:45:56] [SachSapHetHang] MaSach: 250, TenSach: Chiến Thắng Con Quỷ Trong Bạn, SoLuong: 9
+[2025-09-03 14:45:57] [SachSapHetHang] MaSach: 250, TenSach: Chiến Thắng Con Quỷ Trong Bạn, SoLuong: 8
+[2025-09-03 14:51:09] [SachDaNhap] MaSach: 248, TenSach: Người Nam Châm, SoLuongNhap: 1, TongSau: 1, GiaNhap: 30000, MaPhieuNhap: 2029
+[2025-09-03 14:51:09] [SachCoHangTroyLai] MaSach: 248, TenSach: Người Nam Châm, SoLuong: 1
+[2025-09-03 14:51:09] [SachCoHangTroyLai] MaSach: 248, TenSach: Người Nam Châm, SoLuong: 1
+[2025-09-03 15:04:10] [SachDaNhap] MaSach: 249, TenSach: Đắc Nhân Tâm, SoLuongNhap: 1, TongSau: 191, GiaNhap: 23000, MaPhieuNhap: 2030

@@ -1,0 +1,705 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmTaiKhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|solutionrelative:KTPM_Final\\View\\frmTaiKhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\Controllers\\ChiTietHoaDonController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|solutionrelative:KTPM_Final\\Controllers\\ChiTietHoaDonController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|solutionrelative:KTPM_Final\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|d:\\desktop copy\\kien_truc_phan_mem\\ktpm_final\\ktpm_final\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|solutionrelative:ktpm_final\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|d:\\desktop copy\\kien_truc_phan_mem\\ktpm_final\\ktpm_final\\observer\\observermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|solutionrelative:ktpm_final\\observer\\observermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\Controllers\\SachController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|solutionrelative:KTPM_Final\\Controllers\\SachController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmHoaDon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|solutionrelative:KTPM_Final\\View\\frmHoaDon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmNhapSach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|solutionrelative:KTPM_Final\\View\\frmNhapSach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\Controllers\\HoaDonController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|solutionrelative:KTPM_Final\\Controllers\\HoaDonController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\Controllers\\TaiKhoanController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|solutionrelative:KTPM_Final\\Controllers\\TaiKhoanController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmAdmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|solutionrelative:KTPM_Final\\View\\frmAdmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\Controllers\\ChiTietNhapSachController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|solutionrelative:KTPM_Final\\Controllers\\ChiTietNhapSachController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\Controllers\\NhanVienController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|solutionrelative:KTPM_Final\\Controllers\\NhanVienController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\Controllers\\NhapSachController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|solutionrelative:KTPM_Final\\Controllers\\NhapSachController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\Controllers\\DBHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|solutionrelative:KTPM_Final\\Controllers\\DBHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmXemHoaDon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|solutionrelative:KTPM_Final\\View\\frmXemHoaDon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmXemPhieuNHap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|solutionrelative:KTPM_Final\\View\\frmXemPhieuNHap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmSach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|solutionrelative:KTPM_Final\\View\\frmSach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmQuickAddAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|solutionrelative:KTPM_Final\\View\\frmQuickAddAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmNhanVien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|solutionrelative:KTPM_Final\\View\\frmNhanVien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmLogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|solutionrelative:KTPM_Final\\View\\frmLogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmKhoXemTTSach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|solutionrelative:KTPM_Final\\View\\frmKhoXemTTSach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|solutionrelative:KTPM_Final\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmChiTietHoaDon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|solutionrelative:KTPM_Final\\View\\frmChiTietHoaDon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmBHXemTTSach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|solutionrelative:KTPM_Final\\View\\frmBHXemTTSach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\ktpm_final\\view\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|solutionrelative:ktpm_final\\view\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\ktpm_final\\view\\frmxemphieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|solutionrelative:ktpm_final\\view\\frmxemphieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\ktpm_final\\view\\chitietphieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|solutionrelative:ktpm_final\\view\\chitietphieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\ktpm_final\\view\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|solutionrelative:ktpm_final\\view\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\ktpm_final\\view\\frmbhxemttsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|solutionrelative:ktpm_final\\view\\frmbhxemttsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\ktpm_final\\view\\frmxemhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|solutionrelative:ktpm_final\\view\\frmxemhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\ktpm_final\\view\\frmtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|solutionrelative:ktpm_final\\view\\frmtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\ktpm_final\\view\\frmsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|solutionrelative:ktpm_final\\view\\frmsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\ktpm_final\\view\\frmquickaddaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|solutionrelative:ktpm_final\\view\\frmquickaddaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\ktpm_final\\view\\frmnhapsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|solutionrelative:ktpm_final\\view\\frmnhapsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\ktpm_final\\view\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|solutionrelative:ktpm_final\\view\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\ktpm_final\\view\\frmkhoxemttsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|solutionrelative:ktpm_final\\view\\frmkhoxemttsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\ktpm_final\\view\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|solutionrelative:ktpm_final\\view\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\ktpm_final\\view\\frmchitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E80AA5D-13EA-4B73-822A-E3EA4656C146}|KTPM_Final\\KTPM_Final.csproj|solutionrelative:ktpm_final\\view\\frmchitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 223,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChiTietHoaDonController.cs",
+              "DocumentMoniker": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\Controllers\\ChiTietHoaDonController.cs",
+              "RelativeDocumentMoniker": "KTPM_Final\\Controllers\\ChiTietHoaDonController.cs",
+              "ToolTip": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\Controllers\\ChiTietHoaDonController.cs",
+              "RelativeToolTip": "KTPM_Final\\Controllers\\ChiTietHoaDonController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T06:14:42.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmHoaDon.cs",
+              "DocumentMoniker": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmHoaDon.cs",
+              "RelativeDocumentMoniker": "KTPM_Final\\View\\frmHoaDon.cs",
+              "ToolTip": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmHoaDon.cs",
+              "RelativeToolTip": "KTPM_Final\\View\\frmHoaDon.cs",
+              "ViewState": "AgIAAA8BAAAAAAAAAAAlwBoBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:21:39.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmNhapSach.cs",
+              "DocumentMoniker": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmNhapSach.cs",
+              "RelativeDocumentMoniker": "KTPM_Final\\View\\frmNhapSach.cs",
+              "ToolTip": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmNhapSach.cs",
+              "RelativeToolTip": "KTPM_Final\\View\\frmNhapSach.cs",
+              "ViewState": "AgIAALEAAAAAAAAAAAApwJAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:30:19.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HoaDonController.cs",
+              "DocumentMoniker": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\Controllers\\HoaDonController.cs",
+              "RelativeDocumentMoniker": "KTPM_Final\\Controllers\\HoaDonController.cs",
+              "ToolTip": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\Controllers\\HoaDonController.cs",
+              "RelativeToolTip": "KTPM_Final\\Controllers\\HoaDonController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T06:14:56.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TaiKhoanController.cs",
+              "DocumentMoniker": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\Controllers\\TaiKhoanController.cs",
+              "RelativeDocumentMoniker": "KTPM_Final\\Controllers\\TaiKhoanController.cs",
+              "ToolTip": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\Controllers\\TaiKhoanController.cs",
+              "RelativeToolTip": "KTPM_Final\\Controllers\\TaiKhoanController.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAMwHYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T06:15:08.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmTaiKhoan.cs",
+              "DocumentMoniker": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmTaiKhoan.cs",
+              "RelativeDocumentMoniker": "KTPM_Final\\View\\frmTaiKhoan.cs",
+              "ToolTip": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmTaiKhoan.cs",
+              "RelativeToolTip": "KTPM_Final\\View\\frmTaiKhoan.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAlwD4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:41:48.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SachController.cs",
+              "DocumentMoniker": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\Controllers\\SachController.cs",
+              "RelativeDocumentMoniker": "KTPM_Final\\Controllers\\SachController.cs",
+              "ToolTip": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\Controllers\\SachController.cs",
+              "RelativeToolTip": "KTPM_Final\\Controllers\\SachController.cs",
+              "ViewState": "AgIAALkAAAAAAAAAAADwv8UAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T06:15:05.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ObserverManager.cs",
+              "DocumentMoniker": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\Observer\\ObserverManager.cs",
+              "RelativeDocumentMoniker": "KTPM_Final\\Observer\\ObserverManager.cs",
+              "ToolTip": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\Observer\\ObserverManager.cs",
+              "RelativeToolTip": "KTPM_Final\\Observer\\ObserverManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAHMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T09:37:20.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\App.config",
+              "RelativeDocumentMoniker": "KTPM_Final\\App.config",
+              "ToolTip": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\App.config",
+              "RelativeToolTip": "KTPM_Final\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-28T06:30:57.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\packages.config",
+              "RelativeDocumentMoniker": "KTPM_Final\\packages.config",
+              "ToolTip": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\packages.config",
+              "RelativeToolTip": "KTPM_Final\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-09-03T06:52:20.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmAdmin.cs",
+              "DocumentMoniker": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmAdmin.cs",
+              "RelativeDocumentMoniker": "KTPM_Final\\View\\frmAdmin.cs",
+              "ToolTip": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmAdmin.cs",
+              "RelativeToolTip": "KTPM_Final\\View\\frmAdmin.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAWwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:19:09.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChiTietNhapSachController.cs",
+              "DocumentMoniker": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\Controllers\\ChiTietNhapSachController.cs",
+              "RelativeDocumentMoniker": "KTPM_Final\\Controllers\\ChiTietNhapSachController.cs",
+              "ToolTip": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\Controllers\\ChiTietNhapSachController.cs",
+              "RelativeToolTip": "KTPM_Final\\Controllers\\ChiTietNhapSachController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T06:14:52.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NhanVienController.cs",
+              "DocumentMoniker": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\Controllers\\NhanVienController.cs",
+              "RelativeDocumentMoniker": "KTPM_Final\\Controllers\\NhanVienController.cs",
+              "ToolTip": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\Controllers\\NhanVienController.cs",
+              "RelativeToolTip": "KTPM_Final\\Controllers\\NhanVienController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAlwDsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T06:15:00.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NhapSachController.cs",
+              "DocumentMoniker": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\Controllers\\NhapSachController.cs",
+              "RelativeDocumentMoniker": "KTPM_Final\\Controllers\\NhapSachController.cs",
+              "ToolTip": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\Controllers\\NhapSachController.cs",
+              "RelativeToolTip": "KTPM_Final\\Controllers\\NhapSachController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T06:15:02.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DBHelper.cs",
+              "DocumentMoniker": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\Controllers\\DBHelper.cs",
+              "RelativeDocumentMoniker": "KTPM_Final\\Controllers\\DBHelper.cs",
+              "ToolTip": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\Controllers\\DBHelper.cs",
+              "RelativeToolTip": "KTPM_Final\\Controllers\\DBHelper.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwB0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T06:16:10.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmXemHoaDon.cs",
+              "DocumentMoniker": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmXemHoaDon.cs",
+              "RelativeDocumentMoniker": "KTPM_Final\\View\\frmXemHoaDon.cs",
+              "ToolTip": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmXemHoaDon.cs",
+              "RelativeToolTip": "KTPM_Final\\View\\frmXemHoaDon.cs",
+              "ViewState": "AgIAALEAAAAAAAAAAAAAAMIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:45:06.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmXemPhieuNHap.cs",
+              "DocumentMoniker": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmXemPhieuNHap.cs",
+              "RelativeDocumentMoniker": "KTPM_Final\\View\\frmXemPhieuNHap.cs",
+              "ToolTip": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmXemPhieuNHap.cs",
+              "RelativeToolTip": "KTPM_Final\\View\\frmXemPhieuNHap.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAGoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:44:26.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmSach.cs",
+              "DocumentMoniker": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmSach.cs",
+              "RelativeDocumentMoniker": "KTPM_Final\\View\\frmSach.cs",
+              "ToolTip": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmSach.cs",
+              "RelativeToolTip": "KTPM_Final\\View\\frmSach.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:36:23.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmQuickAddAccount.cs",
+              "DocumentMoniker": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmQuickAddAccount.cs",
+              "RelativeDocumentMoniker": "KTPM_Final\\View\\frmQuickAddAccount.cs",
+              "ToolTip": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmQuickAddAccount.cs",
+              "RelativeToolTip": "KTPM_Final\\View\\frmQuickAddAccount.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:35:51.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmNhanVien.cs",
+              "DocumentMoniker": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmNhanVien.cs",
+              "RelativeDocumentMoniker": "KTPM_Final\\View\\frmNhanVien.cs",
+              "ToolTip": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmNhanVien.cs",
+              "RelativeToolTip": "KTPM_Final\\View\\frmNhanVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:28:58.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmLogin.cs",
+              "RelativeDocumentMoniker": "KTPM_Final\\View\\frmLogin.cs",
+              "ToolTip": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmLogin.cs",
+              "RelativeToolTip": "KTPM_Final\\View\\frmLogin.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:28:53.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmKhoXemTTSach.cs",
+              "DocumentMoniker": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmKhoXemTTSach.cs",
+              "RelativeDocumentMoniker": "KTPM_Final\\View\\frmKhoXemTTSach.cs",
+              "ToolTip": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmKhoXemTTSach.cs",
+              "RelativeToolTip": "KTPM_Final\\View\\frmKhoXemTTSach.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:24:39.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\Program.cs",
+              "RelativeDocumentMoniker": "KTPM_Final\\Program.cs",
+              "ToolTip": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\Program.cs",
+              "RelativeToolTip": "KTPM_Final\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:22:47.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmChiTietHoaDon.cs",
+              "DocumentMoniker": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmChiTietHoaDon.cs",
+              "RelativeDocumentMoniker": "KTPM_Final\\View\\frmChiTietHoaDon.cs",
+              "ToolTip": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmChiTietHoaDon.cs",
+              "RelativeToolTip": "KTPM_Final\\View\\frmChiTietHoaDon.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:20:55.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frmBHXemTTSach.cs",
+              "DocumentMoniker": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmBHXemTTSach.cs",
+              "RelativeDocumentMoniker": "KTPM_Final\\View\\frmBHXemTTSach.cs",
+              "ToolTip": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmBHXemTTSach.cs",
+              "RelativeToolTip": "KTPM_Final\\View\\frmBHXemTTSach.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:20:24.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmLogin.cs",
+              "RelativeDocumentMoniker": "KTPM_Final\\View\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\nhatn\\Downloads\\BI_Projects\\KTPM_Final\\KTPM_Final\\View\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:19:27.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmXemPhieuNHap.cs [Design]",
+              "DocumentMoniker": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmXemPhieuNHap.cs",
+              "RelativeDocumentMoniker": "KTPM_Final\\View\\frmXemPhieuNHap.cs",
+              "ToolTip": "C:\\Users\\nhatn\\Downloads\\BI_Projects\\KTPM_Final\\KTPM_Final\\View\\frmXemPhieuNHap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:19:46.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ChiTietPhieuNhap.cs [Design]",
+              "DocumentMoniker": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\ChiTietPhieuNhap.cs",
+              "RelativeDocumentMoniker": "KTPM_Final\\View\\ChiTietPhieuNhap.cs",
+              "ToolTip": "C:\\Users\\nhatn\\Downloads\\BI_Projects\\KTPM_Final\\KTPM_Final\\View\\ChiTietPhieuNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:19:01.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "frmAdmin.cs [Design]",
+              "DocumentMoniker": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmAdmin.cs",
+              "RelativeDocumentMoniker": "KTPM_Final\\View\\frmAdmin.cs",
+              "ToolTip": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final - Copy\\KTPM_Final\\View\\frmAdmin.cs [Design]",
+              "RelativeToolTip": "..\\KTPM_Final - Copy\\KTPM_Final\\View\\frmAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:19:03.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "frmBHXemTTSach.cs [Design]",
+              "DocumentMoniker": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmBHXemTTSach.cs",
+              "RelativeDocumentMoniker": "KTPM_Final\\View\\frmBHXemTTSach.cs",
+              "ToolTip": "C:\\Users\\nhatn\\Downloads\\BI_Projects\\KTPM_Final\\KTPM_Final\\View\\frmBHXemTTSach.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:19:19.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "frmXemHoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmXemHoaDon.cs",
+              "RelativeDocumentMoniker": "KTPM_Final\\View\\frmXemHoaDon.cs",
+              "ToolTip": "C:\\Users\\nhatn\\Downloads\\BI_Projects\\KTPM_Final\\KTPM_Final\\View\\frmXemHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:19:44.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "frmTaiKhoan.cs [Design]",
+              "DocumentMoniker": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmTaiKhoan.cs",
+              "RelativeDocumentMoniker": "KTPM_Final\\View\\frmTaiKhoan.cs",
+              "ToolTip": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmTaiKhoan.cs [Design]",
+              "RelativeToolTip": "KTPM_Final\\View\\frmTaiKhoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:19:42.525Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "frmSach.cs [Design]",
+              "DocumentMoniker": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmSach.cs",
+              "RelativeDocumentMoniker": "KTPM_Final\\View\\frmSach.cs",
+              "ToolTip": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmSach.cs [Design]",
+              "RelativeToolTip": "KTPM_Final\\View\\frmSach.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:19:38.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "frmQuickAddAccount.cs [Design]",
+              "DocumentMoniker": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmQuickAddAccount.cs",
+              "RelativeDocumentMoniker": "KTPM_Final\\View\\frmQuickAddAccount.cs",
+              "ToolTip": "C:\\Users\\nhatn\\Downloads\\BI_Projects\\KTPM_Final\\KTPM_Final\\View\\frmQuickAddAccount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:19:36.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "frmNhapSach.cs [Design]",
+              "DocumentMoniker": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmNhapSach.cs",
+              "RelativeDocumentMoniker": "KTPM_Final\\View\\frmNhapSach.cs",
+              "ToolTip": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmNhapSach.cs [Design]",
+              "RelativeToolTip": "KTPM_Final\\View\\frmNhapSach.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:19:35.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "frmNhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmNhanVien.cs",
+              "RelativeDocumentMoniker": "KTPM_Final\\View\\frmNhanVien.cs",
+              "ToolTip": "C:\\Users\\nhatn\\Downloads\\BI_Projects\\KTPM_Final\\KTPM_Final\\View\\frmNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:19:28.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "frmKhoXemTTSach.cs [Design]",
+              "DocumentMoniker": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmKhoXemTTSach.cs",
+              "RelativeDocumentMoniker": "KTPM_Final\\View\\frmKhoXemTTSach.cs",
+              "ToolTip": "C:\\Users\\nhatn\\Downloads\\BI_Projects\\KTPM_Final\\KTPM_Final\\View\\frmKhoXemTTSach.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:19:26.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "frmHoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmHoaDon.cs",
+              "RelativeDocumentMoniker": "KTPM_Final\\View\\frmHoaDon.cs",
+              "ToolTip": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmHoaDon.cs [Design]",
+              "RelativeToolTip": "KTPM_Final\\View\\frmHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:19:23.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "frmChiTietHoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\desktop copy\\Kien_Truc_Phan_Mem\\KTPM_Final\\KTPM_Final\\View\\frmChiTietHoaDon.cs",
+              "RelativeDocumentMoniker": "KTPM_Final\\View\\frmChiTietHoaDon.cs",
+              "ToolTip": "C:\\Users\\nhatn\\Downloads\\BI_Projects\\KTPM_Final\\KTPM_Final\\View\\frmChiTietHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:19:22.095Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

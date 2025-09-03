@@ -1,0 +1,72 @@
+C:\Users\nhatn\Downloads\MVC\KTPM_Final\KTPM_Final\obj\Debug\KTPM_Final.csproj.AssemblyReference.cache
+C:\Users\nhatn\Downloads\MVC\KTPM_Final\KTPM_Final\obj\Debug\KTPM_Final.Properties.Resources.resources
+C:\Users\nhatn\Downloads\MVC\KTPM_Final\KTPM_Final\obj\Debug\App.frmAdmin.resources
+C:\Users\nhatn\Downloads\MVC\KTPM_Final\KTPM_Final\obj\Debug\App.frmBHXemTTSach.resources
+C:\Users\nhatn\Downloads\MVC\KTPM_Final\KTPM_Final\obj\Debug\App.frmChiTietHoaDon.resources
+C:\Users\nhatn\Downloads\MVC\KTPM_Final\KTPM_Final\obj\Debug\App.frmDoanhthu.resources
+C:\Users\nhatn\Downloads\MVC\KTPM_Final\KTPM_Final\obj\Debug\App.frmHoaDon.resources
+C:\Users\nhatn\Downloads\MVC\KTPM_Final\KTPM_Final\obj\Debug\App.frmLogin.resources
+C:\Users\nhatn\Downloads\MVC\KTPM_Final\KTPM_Final\obj\Debug\App.frmNhanVien.resources
+C:\Users\nhatn\Downloads\MVC\KTPM_Final\KTPM_Final\obj\Debug\App.frmQuickAddAccount.resources
+C:\Users\nhatn\Downloads\MVC\KTPM_Final\KTPM_Final\obj\Debug\App.frmSach.resources
+C:\Users\nhatn\Downloads\MVC\KTPM_Final\KTPM_Final\obj\Debug\App.frmTaiKhoan.resources
+C:\Users\nhatn\Downloads\MVC\KTPM_Final\KTPM_Final\obj\Debug\App.frmXemHoaDon.resources
+C:\Users\nhatn\Downloads\MVC\KTPM_Final\KTPM_Final\obj\Debug\KTPM_Final.csproj.GenerateResource.cache
+C:\Users\nhatn\Downloads\MVC\KTPM_Final\KTPM_Final\obj\Debug\KTPM_Final.csproj.CoreCompileInputs.cache
+D:\desktop copy\Kien_Truc_Phan_Mem\KTPM_Final\KTPM_Final\bin\Debug\KTPM_Final.exe.config
+D:\desktop copy\Kien_Truc_Phan_Mem\KTPM_Final\KTPM_Final\bin\Debug\KTPM_Final.exe
+D:\desktop copy\Kien_Truc_Phan_Mem\KTPM_Final\KTPM_Final\bin\Debug\KTPM_Final.pdb
+D:\desktop copy\Kien_Truc_Phan_Mem\KTPM_Final\KTPM_Final\bin\Debug\BouncyCastle.Cryptography.dll
+D:\desktop copy\Kien_Truc_Phan_Mem\KTPM_Final\KTPM_Final\bin\Debug\itextsharp.dll
+D:\desktop copy\Kien_Truc_Phan_Mem\KTPM_Final\KTPM_Final\bin\Debug\BouncyCastle.Cryptography.xml
+D:\desktop copy\Kien_Truc_Phan_Mem\KTPM_Final\KTPM_Final\bin\Debug\itextsharp.xml
+D:\desktop copy\Kien_Truc_Phan_Mem\KTPM_Final\KTPM_Final\obj\Debug\KTPM_Final.csproj.AssemblyReference.cache
+D:\desktop copy\Kien_Truc_Phan_Mem\KTPM_Final\KTPM_Final\obj\Debug\KTPM_Final.Properties.Resources.resources
+D:\desktop copy\Kien_Truc_Phan_Mem\KTPM_Final\KTPM_Final\obj\Debug\App.frmAdmin.resources
+D:\desktop copy\Kien_Truc_Phan_Mem\KTPM_Final\KTPM_Final\obj\Debug\App.frmBHXemTTSach.resources
+D:\desktop copy\Kien_Truc_Phan_Mem\KTPM_Final\KTPM_Final\obj\Debug\App.frmChiTietHoaDon.resources
+D:\desktop copy\Kien_Truc_Phan_Mem\KTPM_Final\KTPM_Final\obj\Debug\App.frmHoaDon.resources
+D:\desktop copy\Kien_Truc_Phan_Mem\KTPM_Final\KTPM_Final\obj\Debug\App.frmLogin.resources
+D:\desktop copy\Kien_Truc_Phan_Mem\KTPM_Final\KTPM_Final\obj\Debug\App.frmNhanVien.resources
+D:\desktop copy\Kien_Truc_Phan_Mem\KTPM_Final\KTPM_Final\obj\Debug\App.frmQuickAddAccount.resources
+D:\desktop copy\Kien_Truc_Phan_Mem\KTPM_Final\KTPM_Final\obj\Debug\App.frmSach.resources
+D:\desktop copy\Kien_Truc_Phan_Mem\KTPM_Final\KTPM_Final\obj\Debug\App.frmTaiKhoan.resources
+D:\desktop copy\Kien_Truc_Phan_Mem\KTPM_Final\KTPM_Final\obj\Debug\App.frmXemHoaDon.resources
+D:\desktop copy\Kien_Truc_Phan_Mem\KTPM_Final\KTPM_Final\obj\Debug\KTPM_Final.csproj.GenerateResource.cache
+D:\desktop copy\Kien_Truc_Phan_Mem\KTPM_Final\KTPM_Final\obj\Debug\KTPM_Final.csproj.CoreCompileInputs.cache
+D:\desktop copy\Kien_Truc_Phan_Mem\KTPM_Final\KTPM_Final\obj\Debug\KTPM_Final.csproj.Up2Date
+D:\desktop copy\Kien_Truc_Phan_Mem\KTPM_Final\KTPM_Final\obj\Debug\KTPM_Final.exe
+D:\desktop copy\Kien_Truc_Phan_Mem\KTPM_Final\KTPM_Final\obj\Debug\KTPM_Final.pdb
+C:\Users\nhatn\Downloads\BI_Projects\KTPM_Final\KTPM_Final\bin\Debug\KTPM_Final.exe.config
+C:\Users\nhatn\Downloads\BI_Projects\KTPM_Final\KTPM_Final\bin\Debug\KTPM_Final.exe
+C:\Users\nhatn\Downloads\BI_Projects\KTPM_Final\KTPM_Final\bin\Debug\KTPM_Final.pdb
+C:\Users\nhatn\Downloads\BI_Projects\KTPM_Final\KTPM_Final\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\nhatn\Downloads\BI_Projects\KTPM_Final\KTPM_Final\bin\Debug\itextsharp.dll
+C:\Users\nhatn\Downloads\BI_Projects\KTPM_Final\KTPM_Final\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\nhatn\Downloads\BI_Projects\KTPM_Final\KTPM_Final\bin\Debug\itextsharp.xml
+C:\Users\nhatn\Downloads\BI_Projects\KTPM_Final\KTPM_Final\obj\Debug\KTPM_Final.csproj.AssemblyReference.cache
+C:\Users\nhatn\Downloads\BI_Projects\KTPM_Final\KTPM_Final\obj\Debug\KTPM_Final.Properties.Resources.resources
+C:\Users\nhatn\Downloads\BI_Projects\KTPM_Final\KTPM_Final\obj\Debug\App.ChiTietPhieuNhap.resources
+C:\Users\nhatn\Downloads\BI_Projects\KTPM_Final\KTPM_Final\obj\Debug\App.frmAdmin.resources
+C:\Users\nhatn\Downloads\BI_Projects\KTPM_Final\KTPM_Final\obj\Debug\App.frmBHXemTTSach.resources
+C:\Users\nhatn\Downloads\BI_Projects\KTPM_Final\KTPM_Final\obj\Debug\App.frmChiTietHoaDon.resources
+C:\Users\nhatn\Downloads\BI_Projects\KTPM_Final\KTPM_Final\obj\Debug\App.frmHoaDon.resources
+C:\Users\nhatn\Downloads\BI_Projects\KTPM_Final\KTPM_Final\obj\Debug\App.frmKhoXemTTSach.resources
+C:\Users\nhatn\Downloads\BI_Projects\KTPM_Final\KTPM_Final\obj\Debug\App.frmLogin.resources
+C:\Users\nhatn\Downloads\BI_Projects\KTPM_Final\KTPM_Final\obj\Debug\App.frmNhanVien.resources
+C:\Users\nhatn\Downloads\BI_Projects\KTPM_Final\KTPM_Final\obj\Debug\App.frmNhapSach.resources
+C:\Users\nhatn\Downloads\BI_Projects\KTPM_Final\KTPM_Final\obj\Debug\App.frmQuickAddAccount.resources
+C:\Users\nhatn\Downloads\BI_Projects\KTPM_Final\KTPM_Final\obj\Debug\App.frmSach.resources
+C:\Users\nhatn\Downloads\BI_Projects\KTPM_Final\KTPM_Final\obj\Debug\App.frmTaiKhoan.resources
+C:\Users\nhatn\Downloads\BI_Projects\KTPM_Final\KTPM_Final\obj\Debug\App.frmXemHoaDon.resources
+C:\Users\nhatn\Downloads\BI_Projects\KTPM_Final\KTPM_Final\obj\Debug\App.frmXemPhieuNhap.resources
+C:\Users\nhatn\Downloads\BI_Projects\KTPM_Final\KTPM_Final\obj\Debug\KTPM_Final.csproj.GenerateResource.cache
+C:\Users\nhatn\Downloads\BI_Projects\KTPM_Final\KTPM_Final\obj\Debug\KTPM_Final.csproj.CoreCompileInputs.cache
+C:\Users\nhatn\Downloads\BI_Projects\KTPM_Final\KTPM_Final\obj\Debug\KTPM_Final.csproj.Up2Date
+C:\Users\nhatn\Downloads\BI_Projects\KTPM_Final\KTPM_Final\obj\Debug\KTPM_Final.exe
+C:\Users\nhatn\Downloads\BI_Projects\KTPM_Final\KTPM_Final\obj\Debug\KTPM_Final.pdb
+D:\desktop copy\Kien_Truc_Phan_Mem\KTPM_Final\KTPM_Final\obj\Debug\App.ChiTietPhieuNhap.resources
+D:\desktop copy\Kien_Truc_Phan_Mem\KTPM_Final\KTPM_Final\obj\Debug\App.frmKhoXemTTSach.resources
+D:\desktop copy\Kien_Truc_Phan_Mem\KTPM_Final\KTPM_Final\obj\Debug\App.frmNhapSach.resources
+D:\desktop copy\Kien_Truc_Phan_Mem\KTPM_Final\KTPM_Final\obj\Debug\App.frmXemPhieuNhap.resources
+D:\desktop copy\Kien_Truc_Phan_Mem\KTPM_Final\KTPM_Final\obj\Debug\KTPM_Final.exe.config
