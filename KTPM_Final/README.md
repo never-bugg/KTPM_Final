@@ -23,8 +23,6 @@ KTPM_Final/
 │       ├── LogObserver.cs
 │       ├── StatisticsObserver.cs
 │       └── UIUpdateObserver.cs
-├── Demo/                 # Observer Pattern Demo
-├── Testing/              # Unit Tests
 └── Database/             # SQL Scripts
 ```
 
